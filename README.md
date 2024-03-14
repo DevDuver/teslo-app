@@ -16,3 +16,7 @@ Este es un proyecto para trabajar con:
 # Importante
 Recuerden leer y seguir la guía para montar el backend localmente.
 
+Un usuario para poder probar la app puede ser
+user: test1@google.com
+password: Abc123
+
